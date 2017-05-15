@@ -1,0 +1,12 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "None",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Todd Malone",
+  "license": "MIT"
+}
